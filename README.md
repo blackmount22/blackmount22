@@ -1,6 +1,6 @@
 <div style="width:100%;background-color:black">
   <div align="center" >
-    <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=blackmount22&fontSize=70&animation=twinkling">
+    <img src="https://capsule-render.vercel.app/api?type=slice&color=FFD159&height=150&section=header&text=blackmount22&fontSize=70">
   </div>
 
   <div align="center">
