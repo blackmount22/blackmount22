@@ -5,7 +5,6 @@
 
   <div align="center">
     <a href="https://github.com/blackmount22"><img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white"/></a>
-    <a href="https://www.instagram.com/moongang22/?hl=ko"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/moongang22/"></a>
     <a href="https://thinksdev.tistory.com"><img src="https://img.shields.io/badge/TiStory-FF5722?style=flat&logo=Storyblok&text&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/moongang1022@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
   </div>
